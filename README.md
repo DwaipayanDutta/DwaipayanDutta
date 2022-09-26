@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dwaipayan</h1>
+<h1 align="center">Hi 😃👋, I'm Dwaipayan</h1>
 <h3 align="center">I am working as a Data Scientist with Infosys</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwaipayandutta&label=Profile%20views&color=0e75b6&style=flat" alt="dwaipayandutta" /> </p>
