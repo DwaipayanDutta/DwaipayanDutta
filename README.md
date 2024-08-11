@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CNN and Deep Learning**
 
-- 🤝 I’m looking for help with **Image Processing**
+- 🤝 I’m looking for help with **Image Processing and other Data science projects**
 
 - 💬 Ask me about **Data Science basic Concepts**
 
