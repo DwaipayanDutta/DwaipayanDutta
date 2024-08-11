@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😃👋, I'm Dwaipayan</h1>
 <h3 align="center">I am working as a Data Scientist with Deloitte </h3>
 
-- 🔭 I’m currently working on **Text Mining assignments**
+- 🔭 I’m currently working on **Propensity and Income Estimation Models**
 
 - 🌱 I’m currently learning **CNN and Deep Learning**
 
