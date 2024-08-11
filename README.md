@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😃👋, I'm Dwaipayan</h1>
-<h3 align="center">I am working as a Data Scientist with TATA AIA </h3>
+<h3 align="center">I am working as a Data Scientist with Deloitte </h3>
 
 - 🔭 I’m currently working on **Text Mining assignments**
 
