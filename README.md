@@ -78,14 +78,14 @@ If it doesn’t, I want to know <b>why faster</b>.
 </p>
 
 ---
-
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=DwaipayanDutta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=DwaipayanDutta&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DwaipayanDutta&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DwaipayanDutta&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000&sideLabels=000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DwaipayanDutta&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DwaipayanDutta&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000)
+
 
 ---
 
