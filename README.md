@@ -11,15 +11,15 @@
 
 ```diff
 + ML Engineer in progress
-+ Obsessed with understanding systems deeply
-- Not satisfied with “it just works”
++ Obsessed with deep system understanding
+- Won't settle for "it just works"
 ```
 
-- 🔭 Working on **Propensity Models, Income Estimation & ML Systems**  
-- 🌱 Learning **Deep Learning, CNNs & advanced ML architectures**  
-- 🧠 Interested in **ML, Math, and Intelligent Systems Design**  
-- 🤝 Open to **AI / ML / Data Science collaborations**  
-- 💬 Ask me about **ML fundamentals, data intuition & problem solving**  
+- 🔭 Currently building **Propensity Models, Income Estimation & ML Systems**  
+- 🌱 Learning **Deep Learning, CNNs & advanced architectures**  
+- 🧠 Passionate about **ML, Math, Intelligent Systems Design**  
+- 🤝 Open to **AI/ML/Data Science collaborations**  
+- 💬 Ask me about **ML fundamentals, data intuition, problem solving**  
 - 📫 **duttdw01@gmail.com**
 
 ---
@@ -28,7 +28,7 @@
 
 ```txt
 v1.0 → wrote clean code
-v2.0 → discovered machine learning
+v2.0 → discovered machine learning  
 v3.0 → debugging reality itself
 v4.0 → optimizing life (WIP)
 ```
@@ -76,9 +76,9 @@ class Dwaipayan:
 ## 🧠 Philosophy
 
 ```txt
-If it works → understand why  
-If it fails → understand faster  
-If it's complex → simplify  
+If it works → understand why
+If it fails → understand faster
+If it's complex → simplify
 If it's simple → scale
 ```
 
@@ -99,8 +99,8 @@ If it's simple → scale
 
 ## 🧪 Current Focus
 
-- Building **real-world ML systems (not just notebooks)**  
-- Improving **model interpretability & robustness**  
+- Building **real-world ML systems** (beyond notebooks)  
+- Enhancing **model interpretability & robustness**  
 - Thinking in **systems, not just models**
 
 ---
