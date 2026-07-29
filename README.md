@@ -4,13 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=640&lines=Building+Agentic+AI+Systems+at+Scale;LangGraph+%7C+LangChain+%7C+CrewAI+%7C+AutoGen;Multi-Agent+Orchestration+%26+RAG+Pipelines;AI+Platform+Architect+%7C+MLOps+Engineer;Enterprise+GenAI+%7C+LLM+Applications)](https://git.io/typing-svg)
 
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DwaipayanDutta&label=Profile+Views&color=0e75b6&style=flat)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dwaipayan-dutta-a39292129)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:duttdw01@gmail.com)
 &nbsp;
-[![Nagarro](https://img.shields.io/badge/Nagarro-Senior%20AI%20Engineer-FF6B35?style=flat&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://www.nagarro.com)
+![Nagarro](https://img.shields.io/badge/Nagarro-Senior%20AI%20Engineer-FF6B35?style=flat&logoColor=white)
 
 </div>
 
@@ -60,51 +62,51 @@ Currently leading development of **Agentic AI Platforms** with human-in-the-loop
 
 **AI / LLM**
 
-[![](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
 &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF3366?style=flat&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=flat&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Machine Learning**
 
-[![](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
+[![ML Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=python,js,r&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,r&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-003865?style=flat&logoColor=white)
 
 **Backend & APIs**
 
-[![](https://skillicons.dev/icons?i=fastapi,flask&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask&theme=dark)](https://skillicons.dev)
 &nbsp;
-![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Databases & Vector Stores**
 
-[![](https://skillicons.dev/icons?i=postgres,mysql,redis,dynamodb&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,dynamodb&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Cloud & DevOps**
 
-[![](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,nginx&theme=dark)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,nginx&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -150,7 +152,7 @@ Data Science & Analytics
 
 ## Featured Projects
 
-> *Work in progress — pinned repositories being updated. Public projects coming soon.*
+> Public projects coming soon — pinned repositories being updated.
 
 | Project | Stack | Description |
 |---|---|---|
@@ -173,7 +175,7 @@ Data Science & Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DwaipayanDutta&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DwaipayanDutta&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -193,7 +195,7 @@ Data Science & Analytics
 
 <div align="center">
 
-[![Dwaipayan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DwaipayanDutta&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DwaipayanDutta&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -203,15 +205,11 @@ Data Science & Analytics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DwaipayanDutta/DwaipayanDutta/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DwaipayanDutta/DwaipayanDutta/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/DwaipayanDutta/DwaipayanDutta/output/github-snake.svg"/>
-</picture>
+<!-- Snake is generated by GitHub Actions. Run the workflow from the Actions tab first. -->
+<!-- Once the `output` branch exists, this image will auto-render. -->
+<img src="https://raw.githubusercontent.com/DwaipayanDutta/DwaipayanDutta/output/github-snake-dark.svg" alt="contribution snake animation"/>
 
 </div>
-
-> To enable the snake animation, add the GitHub Actions workflow included in `.github/workflows/snake.yml` to your profile repository.
 
 ---
 
