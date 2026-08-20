@@ -12,7 +12,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:duttdw01@gmail.com)
 &nbsp;
-![Company](https://img.shields.io/badge/Nagarro-Senior%20AI%20Engineer-FF6B35?style=flat&logoColor=white)
+![Company](https://img.shields.io/badge/Tata_AIA-Senior%20AI%20Engineer-FF6B35?style=flat&logoColor=white)
 
 </div>
 
@@ -24,7 +24,7 @@
 class DwaipayanDutta:
 
     role        = "Senior AI Engineer | GenAI Engineer | AI Platform Architect"
-    company     = "Nagarro"
+    company     = "Tata AIA"
     location    = "Bangalore, India"
 
     focus       = [
