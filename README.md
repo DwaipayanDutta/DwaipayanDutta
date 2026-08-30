@@ -51,7 +51,7 @@ Currently leading development of **Agentic AI Platforms** with human-in-the-loop
 | Area | What I'm Building |
 |---|---|
 | **Agentic AI** | Multi-agent systems with LangGraph, human-in-the-loop orchestration, tool-using agents |
-| **RAG & Knowledge** | Production RAG pipelines, vector stores (ChromaDB, pgvector), hybrid retrieval |
+| **RAG Pipelines ** | Production RAG pipelines, vector stores (ChromaDB, pgvector), hybrid retrieval |
 | **LLM Engineering** | Prompt engineering, fine-tuning, evaluation frameworks, LLM-as-judge pipelines |
 | **MLOps** | ML workflow orchestration with Airflow, experiment tracking with MLflow, CI/CD for models |
 | **Cloud AI** | AWS SageMaker, Lambda, ECS deployments; Azure AI services integration |
