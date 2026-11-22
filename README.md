@@ -23,8 +23,8 @@
 ```python
 class DwaipayanDutta:
 
-    role        = "Senior AI Engineer | GenAI Engineer | AI Platform Architect"
-    company     = "Tata AIA"
+    role        = " GenAI Engineer | AI Platform Architect"
+    company     = "Naggaro"
     location    = "Bangalore, India"
 
     focus       = [
